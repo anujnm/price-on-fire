@@ -1,6 +1,8 @@
 price-on-fire
 =============
 
+Chrome extension for price comparison between Amazon and eBay.
+
 Price on Fire is an easy to use extension that helps consumers find the best prices for the products they wish to purchase. 
 This extension compares product prices on Amazon with the prices of the same products on eBay. 
 To use this extesion, the user must go to an Amazon product page, and once the page is fully loaded, click on the orange 
